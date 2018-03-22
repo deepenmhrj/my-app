@@ -35,7 +35,7 @@ export const HEROES: Hero[] = [
     },
     {
         id:     8,
-        name:   'Shadow Shaman'
+        name:   'Shadow Shaman  '
     },
     {
         id:     9,
